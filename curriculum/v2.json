@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "updated_at": "2026-01-25T00:00:00Z",
+  "default_curriculum_id": "lds_standard",
+  "curricula": [
+    {
+      "id": "lds_standard",
+      "name": "LDS Standard Works",
+      "days": [
+        {
+          "day": 1,
+          "title": "Start Strong",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Focus",
+              "body": "Commit to the full 40 days. If you miss a required item, reset to Day 1."
+            },
+            {
+              "type": "link",
+              "heading": "Scripture Study",
+              "label": "2 Nephi 25:26\u201327",
+              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write 2\u20133 sentences about what stood out and one action you\u2019ll take today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bible_only",
+      "name": "Bible Only (Non\u2011LDS)",
+      "days": [
+        {
+          "day": 1,
+          "title": "Start Strong",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Focus",
+              "body": "Commit to the full 40 days. If you miss a required item, reset to Day 1."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Matthew 5 (Sermon on the Mount)",
+              "url": "https://www.biblegateway.com/passage/?search=Matthew%205&version=ESV"
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What principle from today\u2019s reading can you practice immediately?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

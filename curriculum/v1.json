@@ -1,3 +1,5 @@
+Min bundle
+
 {
   "version": 2,
   "updated_at": "2026-01-25T00:00:00Z",
@@ -6,38 +8,6 @@
     {
       "id": "lds_standard",
       "name": "LDS Standard Works",
-      "days": [
-        {
-          "day": 1,
-      "title": "Focus On Christ",
-      "sections": [
-        {
-          "heading": "Focus",
-          "body": "Commit to the full 40 days. If you miss a required item, reset to Day 1. Begin in Christ."
-          "label": "2 Nephi 25:26-27",
-          "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
-        },
-        {
-          "heading": "Study Prompt",
-          "body": "Read a chapter from the Standard Works and write 2\u20133 sentences in your journal about what stood out."
-        }
-      ]
-    },
-    {
-      "day": 2,
-      "title": "Man is Nothing",
-      "sections": [
-        {
-          "heading": ""Oh Wretched Man that I am"",
-          "body": "Make prayer morning and night non-negotiable. Build the habit."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bible_only",
-      "name": "Bible Only (Non\u2011LDS)",
       "days": [
         {
           "day": 1,
@@ -50,14 +20,14 @@
             },
             {
               "type": "link",
-              "heading": "Reading",
-              "label": "Matthew 5 (Sermon on the Mount)",
-              "url": "https://www.biblegateway.com/passage/?search=Matthew%205&version=ESV"
+              "heading": "Scripture Study",
+              "label": "2 Nephi 25:26–27",
+              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
             },
             {
               "type": "text",
               "heading": "Journal Prompt",
-              "body": "What principle from today\u2019s reading can you practice immediately?"
+              "body": "Write 2–3 sentences about what stood out and one action you’ll take today."
             }
           ]
         }

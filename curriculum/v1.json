@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated_at": "2026-01-25T00:00:00Z",
+  "days": [
+    {
+      "day": 1,
+      "title": "Start Strong",
+      "sections": [
+        {
+          "heading": "Focus",
+          "body": "Commit to the full 40 days. If you miss a required item, reset to Day 1."
+        },
+        {
+          "heading": "Study Prompt",
+          "body": "Read a chapter from the Standard Works and write 2\u20133 sentences in your journal about what stood out."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Consistency",
+      "sections": [
+        {
+          "heading": "Focus",
+          "body": "Make prayer morning and night non-negotiable. Build the habit."
+        }
+      ]
+    }
+  ]
+}

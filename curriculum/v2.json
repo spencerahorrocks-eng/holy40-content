@@ -9,23 +9,25 @@
       "days": [
         {
           "day": 1,
-          "title": "Start Strong",
-          "blocks": [
-            {
-              "type": "text",
-              "heading": "Focus",
-              "body": "Commit to the full 40 days. If you miss a required item, reset to Day 1."
-            },
-            {
-              "type": "link",
-              "heading": "Scripture Study",
-              "label": "2 Nephi 25:26\u201327",
-              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
-            },
-            {
-              "type": "text",
-              "heading": "Journal Prompt",
-              "body": "Write 2\u20133 sentences about what stood out and one action you\u2019ll take today."
+      "title": "Focus On Christ",
+      "sections": [
+        {
+          "heading": "Focus",
+          "body": "Commit to the full 40 days. If you miss a required item, reset to Day 1. Begin in Christ. https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
+        },
+        {
+          "heading": "Study Prompt",
+          "body": "Read a chapter from the Standard Works and write 2\u20133 sentences in your journal about what stood out."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Man is Nothing",
+      "sections": [
+        {
+          "heading": ""Oh Wretched Man that I am"",
+          "body": "Make prayer morning and night non-negotiable. Build the habit."
             }
           ]
         }

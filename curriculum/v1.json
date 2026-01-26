@@ -1,31 +1,4433 @@
 {
-  "version": 2,
-  "updated_at": "2026-01-25T00:00:00Z",
-  "default_curriculum_id": "lds_standard",
+  "version": 4,
+  "updated_at": "2026-01-26T05:00:06+00:00",
+  "default_curriculum_id": "lds_standard_works",
   "curricula": [
     {
-      "id": "lds_standard",
+      "id": "lds_standard_works",
       "name": "LDS Standard Works",
       "days": [
         {
           "day": 1,
-          "title": "Start Strong",
+          "title": "Start Strong: Center on Christ",
           "blocks": [
             {
               "type": "text",
-              "heading": "Focus",
-              "body": "Commit to the full 40 days. If you miss a required item, reset to Day 1."
+              "heading": "Theme",
+              "body": "This is a 40-day covenant with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
             },
             {
               "type": "link",
-              "heading": "Scripture Study",
+              "heading": "Reading",
               "label": "2 Nephi 25:26–27",
               "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
             },
             {
               "type": "text",
               "heading": "Journal Prompt",
-              "body": "Write 2–3 sentences about what stood out and one action you’ll take today."
+              "body": "What does it mean to you personally to “talk of Christ… rejoice in Christ… preach of Christ”? What is one specific way you’ll do that today?"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Prayer: Morning and Night",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Build the habit of speaking with God out loud—consistency over perfection."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What do you want God to help you become over these 40 days?"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Repentance: Daily Realignment",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Repentance is progress—turning your heart to Christ, again and again."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where did you drift yesterday? What is one small correction you’ll make today?"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Obedience: Doing the Small Things",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God changes people through repeated, ordinary obedience."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one commandment you can keep with more exactness today?"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Scripture Power: Paper and Presence",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Scripture study isn’t just reading—it’s making room for revelation."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What phrase or idea stood out? Why might it matter right now?"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Faith: Acting Before Seeing",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Faith grows when you act on truth you already have."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one faithful action you’ll take today even if you don’t feel like it?"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Sabbath: A Day to Be With God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let the Sabbath be a reset—rest, worship, and spiritual momentum."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does a holy Sabbath look like in your life this week?"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Covenants: Identity and Direction",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Covenants are not constraints—they are power and belonging."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How do covenants shape who you are and what you do?"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Grace: Strength Beyond Your Own",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Grace is enabling power—help to do what you can’t do alone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need divine help most right now?"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Charity: Becoming Like Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Charity is a gift you seek—and a way you live."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who can you love more intentionally today, and how?"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Integrity: Who You Are When No One Sees",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in private—habits become character."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What private habit would most improve your spiritual life?"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "The Holy Ghost: Guidance and Comfort",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Spirit speaks quietly—make your life quiet enough to hear."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "When have you felt the Spirit recently? What were you doing?"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Scripture Study: Asking Better Questions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation often comes from a good question asked with faith."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What question will you bring to God and the scriptures today?"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Sabbath: Renewing Your Promises",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Treat the sacrament as a weekly covenant renewal—real, personal, and focused."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise do you want to renew today? What will you do differently this week?"
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "title": "Discipline: Spiritual Strength Training",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Your checklist is training—discipline becomes freedom."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which checklist item is hardest? What plan will you use to win it today?"
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "title": "Forgiveness: Letting Christ Heal It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Forgiveness is often a process—invite Christ into it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who do you need to forgive (including yourself)? What is one step forward?"
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "title": "Humility: Teachability Before God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Pride resists change; humility welcomes it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What feedback from God are you resisting? What would humility look like today?"
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "title": "Service: Quiet, Real, Specific",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Service turns you outward and brings the Spirit."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one act of service you will do today—small but real?"
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "title": "The Atonement: Accessing Power Daily",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Atonement is not just for sins—it's power for weakness and growth."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need enabling power today? Ask for it specifically."
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "title": "Sabbath: Rest, Worship, Recommit",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let worship reset your desires for the week."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What will you protect this week to keep your spirit strong?"
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "title": "Temptation: Winning the First Battle",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Most temptations are won early—choose your environment and your next action."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is your most predictable temptation? What is your ‘if-then’ plan?"
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "title": "Truth: What God Says Is Real",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Truth steadies you when emotions fluctuate."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write one truth from your study today. How will you act on it?"
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "title": "Covenant People: Belonging and Responsibility",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God gathers His people to strengthen and refine them."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How can you strengthen someone else’s faith this week?"
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "title": "Revelation: Acting on Impressions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation grows when you obey the last thing God told you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What impression have you had lately? What action will you take today?"
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "title": "Endurance: Keep Going When It’s Boring",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Spiritual maturity includes consistency when the novelty is gone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What helps you stay consistent? What will you do when motivation drops?"
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "title": "Christlike Leadership: In the Home and Beyond",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Lead by example, love, and quiet steadiness."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where can you lead more like Christ—patiently and intentionally?"
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "title": "Scripture Study: Finding Patterns",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Look for patterns: promises, warnings, invitations, and examples."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What pattern did you notice today? How does it apply to you?"
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "title": "Sabbath: Gratitude and Joy",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Gratitude invites the Spirit and expands joy."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "List 5 things you’re grateful for—and why they matter."
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "title": "Conversion: Becoming Steady",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Conversion is stability—choosing Christ repeatedly until it becomes you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you feel most ‘steady’ spiritually? Where do you want more steadiness?"
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "title": "The Book of Mormon: Another Testament",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Book of Mormon was given to bring you to Christ with power."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add Book of Mormon link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What did today’s reading teach you about Jesus Christ?"
+            }
+          ]
+        },
+        {
+          "day": 31,
+          "title": "Doctrine and Covenants: Hearing the Lord’s Voice",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Lord speaks to real people in real problems—just like you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add D&C link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What instruction or promise feels personal to you today?"
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "title": "Pearl of Great Price: Identity and Purpose",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Remember who you are: a child of God with eternal purpose."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add PGP link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How does knowing who you are change how you act today?"
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "title": "The New Testament: Discipleship",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Discipleship is daily: hear Him, follow Him, become like Him."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add NT link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one trait of Christ you will practice today?"
+            }
+          ]
+        },
+        {
+          "day": 34,
+          "title": "Sabbath: Finish the Week Strong",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Use the Sabbath to reset your intent and strengthen your habits."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What habit will you protect most for the final week?"
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "title": "Holiness: Becoming a Disciple in Small Moments",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in moments—what you do repeatedly becomes who you are."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What small moment today can become an act of discipleship?"
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "title": "Hope: God Is Working With You",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Hope is confidence in God’s goodness and His promises."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise from God are you holding onto right now?"
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "title": "Consecration: Putting God First",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Consecration is alignment: time, attention, and life offered to God."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it look like to put God first in your schedule today?"
+            }
+          ]
+        },
+        {
+          "day": 38,
+          "title": "Testimony: Speak It, Live It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Testimony strengthens when you share and act on it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write your testimony in 3–5 sentences as it is today."
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "title": "Preparation: Protect What You Built",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Plan now so momentum doesn’t disappear when the 40 days end."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which 3 habits will you keep after Day 40? How will you protect them?"
+            }
+          ]
+        },
+        {
+          "day": 40,
+          "title": "Finish: A New Baseline",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This isn’t the end—it’s the new baseline. Keep walking with God daily."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What changed in you? What will you continue? What will you start next?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Temple Prep",
+      "name": "Temple Prep",
+      "days": [
+        {
+          "day": 1,
+          "title": "Start Strong: Center on Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This is a 40-day covenant with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "2 Nephi 25:26–27",
+              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it mean to you personally to “talk of Christ… rejoice in Christ… preach of Christ”? What is one specific way you’ll do that today?"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Prayer: Morning and Night",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Build the habit of speaking with God out loud—consistency over perfection."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What do you want God to help you become over these 40 days?"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Repentance: Daily Realignment",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Repentance is progress—turning your heart to Christ, again and again."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where did you drift yesterday? What is one small correction you’ll make today?"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Obedience: Doing the Small Things",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God changes people through repeated, ordinary obedience."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one commandment you can keep with more exactness today?"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Scripture Power: Paper and Presence",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Scripture study isn’t just reading—it’s making room for revelation."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What phrase or idea stood out? Why might it matter right now?"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Faith: Acting Before Seeing",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Faith grows when you act on truth you already have."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one faithful action you’ll take today even if you don’t feel like it?"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Sabbath: A Day to Be With God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let the Sabbath be a reset—rest, worship, and spiritual momentum."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does a holy Sabbath look like in your life this week?"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Covenants: Identity and Direction",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Covenants are not constraints—they are power and belonging."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How do covenants shape who you are and what you do?"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Grace: Strength Beyond Your Own",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Grace is enabling power—help to do what you can’t do alone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need divine help most right now?"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Charity: Becoming Like Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Charity is a gift you seek—and a way you live."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who can you love more intentionally today, and how?"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Integrity: Who You Are When No One Sees",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in private—habits become character."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What private habit would most improve your spiritual life?"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "The Holy Ghost: Guidance and Comfort",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Spirit speaks quietly—make your life quiet enough to hear."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "When have you felt the Spirit recently? What were you doing?"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Scripture Study: Asking Better Questions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation often comes from a good question asked with faith."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What question will you bring to God and the scriptures today?"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Sabbath: Renewing Your Promises",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Treat the sacrament as a weekly covenant renewal—real, personal, and focused."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise do you want to renew today? What will you do differently this week?"
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "title": "Discipline: Spiritual Strength Training",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Your checklist is training—discipline becomes freedom."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which checklist item is hardest? What plan will you use to win it today?"
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "title": "Forgiveness: Letting Christ Heal It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Forgiveness is often a process—invite Christ into it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who do you need to forgive (including yourself)? What is one step forward?"
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "title": "Humility: Teachability Before God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Pride resists change; humility welcomes it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What feedback from God are you resisting? What would humility look like today?"
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "title": "Service: Quiet, Real, Specific",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Service turns you outward and brings the Spirit."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one act of service you will do today—small but real?"
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "title": "The Atonement: Accessing Power Daily",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Atonement is not just for sins—it's power for weakness and growth."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need enabling power today? Ask for it specifically."
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "title": "Sabbath: Rest, Worship, Recommit",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let worship reset your desires for the week."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What will you protect this week to keep your spirit strong?"
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "title": "Temptation: Winning the First Battle",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Most temptations are won early—choose your environment and your next action."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is your most predictable temptation? What is your ‘if-then’ plan?"
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "title": "Truth: What God Says Is Real",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Truth steadies you when emotions fluctuate."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write one truth from your study today. How will you act on it?"
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "title": "Covenant People: Belonging and Responsibility",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God gathers His people to strengthen and refine them."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How can you strengthen someone else’s faith this week?"
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "title": "Revelation: Acting on Impressions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation grows when you obey the last thing God told you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What impression have you had lately? What action will you take today?"
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "title": "Endurance: Keep Going When It’s Boring",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Spiritual maturity includes consistency when the novelty is gone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What helps you stay consistent? What will you do when motivation drops?"
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "title": "Christlike Leadership: In the Home and Beyond",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Lead by example, love, and quiet steadiness."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where can you lead more like Christ—patiently and intentionally?"
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "title": "Scripture Study: Finding Patterns",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Look for patterns: promises, warnings, invitations, and examples."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What pattern did you notice today? How does it apply to you?"
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "title": "Sabbath: Gratitude and Joy",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Gratitude invites the Spirit and expands joy."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "List 5 things you’re grateful for—and why they matter."
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "title": "Conversion: Becoming Steady",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Conversion is stability—choosing Christ repeatedly until it becomes you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you feel most ‘steady’ spiritually? Where do you want more steadiness?"
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "title": "The Book of Mormon: Another Testament",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Book of Mormon was given to bring you to Christ with power."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add Book of Mormon link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What did today’s reading teach you about Jesus Christ?"
+            }
+          ]
+        },
+        {
+          "day": 31,
+          "title": "Doctrine and Covenants: Hearing the Lord’s Voice",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Lord speaks to real people in real problems—just like you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add D&C link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What instruction or promise feels personal to you today?"
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "title": "Pearl of Great Price: Identity and Purpose",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Remember who you are: a child of God with eternal purpose."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add PGP link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How does knowing who you are change how you act today?"
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "title": "The New Testament: Discipleship",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Discipleship is daily: hear Him, follow Him, become like Him."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add NT link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one trait of Christ you will practice today?"
+            }
+          ]
+        },
+        {
+          "day": 34,
+          "title": "Sabbath: Finish the Week Strong",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Use the Sabbath to reset your intent and strengthen your habits."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What habit will you protect most for the final week?"
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "title": "Holiness: Becoming a Disciple in Small Moments",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in moments—what you do repeatedly becomes who you are."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What small moment today can become an act of discipleship?"
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "title": "Hope: God Is Working With You",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Hope is confidence in God’s goodness and His promises."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise from God are you holding onto right now?"
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "title": "Consecration: Putting God First",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Consecration is alignment: time, attention, and life offered to God."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it look like to put God first in your schedule today?"
+            }
+          ]
+        },
+        {
+          "day": 38,
+          "title": "Testimony: Speak It, Live It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Testimony strengthens when you share and act on it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write your testimony in 3–5 sentences as it is today."
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "title": "Preparation: Protect What You Built",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Plan now so momentum doesn’t disappear when the 40 days end."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which 3 habits will you keep after Day 40? How will you protect them?"
+            }
+          ]
+        },
+        {
+          "day": 40,
+          "title": "Finish: A New Baseline",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This isn’t the end—it’s the new baseline. Keep walking with God daily."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What changed in you? What will you continue? What will you start next?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Motherhood",
+      "name": "Motherhood",
+      "days": [
+        {
+          "day": 1,
+          "title": "Start Strong: Center on Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This is a 40-day covenant with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "2 Nephi 25:26–27",
+              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it mean to you personally to “talk of Christ… rejoice in Christ… preach of Christ”? What is one specific way you’ll do that today?"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Prayer: Morning and Night",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Build the habit of speaking with God out loud—consistency over perfection."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What do you want God to help you become over these 40 days?"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Repentance: Daily Realignment",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Repentance is progress—turning your heart to Christ, again and again."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where did you drift yesterday? What is one small correction you’ll make today?"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Obedience: Doing the Small Things",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God changes people through repeated, ordinary obedience."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one commandment you can keep with more exactness today?"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Scripture Power: Paper and Presence",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Scripture study isn’t just reading—it’s making room for revelation."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What phrase or idea stood out? Why might it matter right now?"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Faith: Acting Before Seeing",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Faith grows when you act on truth you already have."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one faithful action you’ll take today even if you don’t feel like it?"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Sabbath: A Day to Be With God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let the Sabbath be a reset—rest, worship, and spiritual momentum."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does a holy Sabbath look like in your life this week?"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Covenants: Identity and Direction",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Covenants are not constraints—they are power and belonging."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How do covenants shape who you are and what you do?"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Grace: Strength Beyond Your Own",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Grace is enabling power—help to do what you can’t do alone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need divine help most right now?"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Charity: Becoming Like Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Charity is a gift you seek—and a way you live."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who can you love more intentionally today, and how?"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Integrity: Who You Are When No One Sees",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in private—habits become character."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What private habit would most improve your spiritual life?"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "The Holy Ghost: Guidance and Comfort",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Spirit speaks quietly—make your life quiet enough to hear."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "When have you felt the Spirit recently? What were you doing?"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Scripture Study: Asking Better Questions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation often comes from a good question asked with faith."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What question will you bring to God and the scriptures today?"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Sabbath: Renewing Your Promises",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Treat the sacrament as a weekly covenant renewal—real, personal, and focused."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise do you want to renew today? What will you do differently this week?"
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "title": "Discipline: Spiritual Strength Training",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Your checklist is training—discipline becomes freedom."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which checklist item is hardest? What plan will you use to win it today?"
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "title": "Forgiveness: Letting Christ Heal It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Forgiveness is often a process—invite Christ into it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who do you need to forgive (including yourself)? What is one step forward?"
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "title": "Humility: Teachability Before God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Pride resists change; humility welcomes it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What feedback from God are you resisting? What would humility look like today?"
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "title": "Service: Quiet, Real, Specific",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Service turns you outward and brings the Spirit."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one act of service you will do today—small but real?"
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "title": "The Atonement: Accessing Power Daily",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Atonement is not just for sins—it's power for weakness and growth."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need enabling power today? Ask for it specifically."
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "title": "Sabbath: Rest, Worship, Recommit",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let worship reset your desires for the week."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What will you protect this week to keep your spirit strong?"
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "title": "Temptation: Winning the First Battle",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Most temptations are won early—choose your environment and your next action."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is your most predictable temptation? What is your ‘if-then’ plan?"
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "title": "Truth: What God Says Is Real",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Truth steadies you when emotions fluctuate."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write one truth from your study today. How will you act on it?"
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "title": "Covenant People: Belonging and Responsibility",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God gathers His people to strengthen and refine them."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How can you strengthen someone else’s faith this week?"
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "title": "Revelation: Acting on Impressions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation grows when you obey the last thing God told you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What impression have you had lately? What action will you take today?"
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "title": "Endurance: Keep Going When It’s Boring",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Spiritual maturity includes consistency when the novelty is gone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What helps you stay consistent? What will you do when motivation drops?"
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "title": "Christlike Leadership: In the Home and Beyond",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Lead by example, love, and quiet steadiness."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where can you lead more like Christ—patiently and intentionally?"
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "title": "Scripture Study: Finding Patterns",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Look for patterns: promises, warnings, invitations, and examples."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What pattern did you notice today? How does it apply to you?"
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "title": "Sabbath: Gratitude and Joy",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Gratitude invites the Spirit and expands joy."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "List 5 things you’re grateful for—and why they matter."
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "title": "Conversion: Becoming Steady",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Conversion is stability—choosing Christ repeatedly until it becomes you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you feel most ‘steady’ spiritually? Where do you want more steadiness?"
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "title": "The Book of Mormon: Another Testament",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Book of Mormon was given to bring you to Christ with power."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add Book of Mormon link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What did today’s reading teach you about Jesus Christ?"
+            }
+          ]
+        },
+        {
+          "day": 31,
+          "title": "Doctrine and Covenants: Hearing the Lord’s Voice",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Lord speaks to real people in real problems—just like you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add D&C link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What instruction or promise feels personal to you today?"
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "title": "Pearl of Great Price: Identity and Purpose",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Remember who you are: a child of God with eternal purpose."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add PGP link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How does knowing who you are change how you act today?"
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "title": "The New Testament: Discipleship",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Discipleship is daily: hear Him, follow Him, become like Him."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add NT link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one trait of Christ you will practice today?"
+            }
+          ]
+        },
+        {
+          "day": 34,
+          "title": "Sabbath: Finish the Week Strong",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Use the Sabbath to reset your intent and strengthen your habits."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What habit will you protect most for the final week?"
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "title": "Holiness: Becoming a Disciple in Small Moments",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in moments—what you do repeatedly becomes who you are."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What small moment today can become an act of discipleship?"
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "title": "Hope: God Is Working With You",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Hope is confidence in God’s goodness and His promises."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise from God are you holding onto right now?"
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "title": "Consecration: Putting God First",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Consecration is alignment: time, attention, and life offered to God."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it look like to put God first in your schedule today?"
+            }
+          ]
+        },
+        {
+          "day": 38,
+          "title": "Testimony: Speak It, Live It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Testimony strengthens when you share and act on it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write your testimony in 3–5 sentences as it is today."
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "title": "Preparation: Protect What You Built",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Plan now so momentum doesn’t disappear when the 40 days end."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which 3 habits will you keep after Day 40? How will you protect them?"
+            }
+          ]
+        },
+        {
+          "day": 40,
+          "title": "Finish: A New Baseline",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This isn’t the end—it’s the new baseline. Keep walking with God daily."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What changed in you? What will you continue? What will you start next?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Fatherhood",
+      "name": "Fatherhood",
+      "days": [
+        {
+          "day": 1,
+          "title": "Start Strong: Center on Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This is a 40-day covenant with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "2 Nephi 25:26–27",
+              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it mean to you personally to “talk of Christ… rejoice in Christ… preach of Christ”? What is one specific way you’ll do that today?"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Prayer: Morning and Night",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Build the habit of speaking with God out loud—consistency over perfection."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What do you want God to help you become over these 40 days?"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Repentance: Daily Realignment",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Repentance is progress—turning your heart to Christ, again and again."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where did you drift yesterday? What is one small correction you’ll make today?"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Obedience: Doing the Small Things",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God changes people through repeated, ordinary obedience."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one commandment you can keep with more exactness today?"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Scripture Power: Paper and Presence",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Scripture study isn’t just reading—it’s making room for revelation."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What phrase or idea stood out? Why might it matter right now?"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Faith: Acting Before Seeing",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Faith grows when you act on truth you already have."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one faithful action you’ll take today even if you don’t feel like it?"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Sabbath: A Day to Be With God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let the Sabbath be a reset—rest, worship, and spiritual momentum."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does a holy Sabbath look like in your life this week?"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Covenants: Identity and Direction",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Covenants are not constraints—they are power and belonging."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How do covenants shape who you are and what you do?"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Grace: Strength Beyond Your Own",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Grace is enabling power—help to do what you can’t do alone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need divine help most right now?"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Charity: Becoming Like Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Charity is a gift you seek—and a way you live."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who can you love more intentionally today, and how?"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Integrity: Who You Are When No One Sees",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in private—habits become character."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What private habit would most improve your spiritual life?"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "The Holy Ghost: Guidance and Comfort",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Spirit speaks quietly—make your life quiet enough to hear."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "When have you felt the Spirit recently? What were you doing?"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Scripture Study: Asking Better Questions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation often comes from a good question asked with faith."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What question will you bring to God and the scriptures today?"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Sabbath: Renewing Your Promises",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Treat the sacrament as a weekly covenant renewal—real, personal, and focused."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise do you want to renew today? What will you do differently this week?"
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "title": "Discipline: Spiritual Strength Training",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Your checklist is training—discipline becomes freedom."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which checklist item is hardest? What plan will you use to win it today?"
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "title": "Forgiveness: Letting Christ Heal It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Forgiveness is often a process—invite Christ into it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who do you need to forgive (including yourself)? What is one step forward?"
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "title": "Humility: Teachability Before God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Pride resists change; humility welcomes it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What feedback from God are you resisting? What would humility look like today?"
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "title": "Service: Quiet, Real, Specific",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Service turns you outward and brings the Spirit."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one act of service you will do today—small but real?"
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "title": "The Atonement: Accessing Power Daily",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Atonement is not just for sins—it's power for weakness and growth."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need enabling power today? Ask for it specifically."
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "title": "Sabbath: Rest, Worship, Recommit",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let worship reset your desires for the week."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What will you protect this week to keep your spirit strong?"
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "title": "Temptation: Winning the First Battle",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Most temptations are won early—choose your environment and your next action."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is your most predictable temptation? What is your ‘if-then’ plan?"
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "title": "Truth: What God Says Is Real",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Truth steadies you when emotions fluctuate."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write one truth from your study today. How will you act on it?"
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "title": "Covenant People: Belonging and Responsibility",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God gathers His people to strengthen and refine them."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How can you strengthen someone else’s faith this week?"
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "title": "Revelation: Acting on Impressions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation grows when you obey the last thing God told you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What impression have you had lately? What action will you take today?"
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "title": "Endurance: Keep Going When It’s Boring",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Spiritual maturity includes consistency when the novelty is gone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What helps you stay consistent? What will you do when motivation drops?"
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "title": "Christlike Leadership: In the Home and Beyond",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Lead by example, love, and quiet steadiness."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where can you lead more like Christ—patiently and intentionally?"
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "title": "Scripture Study: Finding Patterns",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Look for patterns: promises, warnings, invitations, and examples."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What pattern did you notice today? How does it apply to you?"
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "title": "Sabbath: Gratitude and Joy",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Gratitude invites the Spirit and expands joy."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "List 5 things you’re grateful for—and why they matter."
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "title": "Conversion: Becoming Steady",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Conversion is stability—choosing Christ repeatedly until it becomes you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you feel most ‘steady’ spiritually? Where do you want more steadiness?"
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "title": "The Book of Mormon: Another Testament",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Book of Mormon was given to bring you to Christ with power."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add Book of Mormon link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What did today’s reading teach you about Jesus Christ?"
+            }
+          ]
+        },
+        {
+          "day": 31,
+          "title": "Doctrine and Covenants: Hearing the Lord’s Voice",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Lord speaks to real people in real problems—just like you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add D&C link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What instruction or promise feels personal to you today?"
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "title": "Pearl of Great Price: Identity and Purpose",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Remember who you are: a child of God with eternal purpose."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add PGP link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How does knowing who you are change how you act today?"
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "title": "The New Testament: Discipleship",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Discipleship is daily: hear Him, follow Him, become like Him."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add NT link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one trait of Christ you will practice today?"
+            }
+          ]
+        },
+        {
+          "day": 34,
+          "title": "Sabbath: Finish the Week Strong",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Use the Sabbath to reset your intent and strengthen your habits."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What habit will you protect most for the final week?"
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "title": "Holiness: Becoming a Disciple in Small Moments",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in moments—what you do repeatedly becomes who you are."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What small moment today can become an act of discipleship?"
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "title": "Hope: God Is Working With You",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Hope is confidence in God’s goodness and His promises."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise from God are you holding onto right now?"
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "title": "Consecration: Putting God First",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Consecration is alignment: time, attention, and life offered to God."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it look like to put God first in your schedule today?"
+            }
+          ]
+        },
+        {
+          "day": 38,
+          "title": "Testimony: Speak It, Live It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Testimony strengthens when you share and act on it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write your testimony in 3–5 sentences as it is today."
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "title": "Preparation: Protect What You Built",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Plan now so momentum doesn’t disappear when the 40 days end."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which 3 habits will you keep after Day 40? How will you protect them?"
+            }
+          ]
+        },
+        {
+          "day": 40,
+          "title": "Finish: A New Baseline",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This isn’t the end—it’s the new baseline. Keep walking with God daily."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What changed in you? What will you continue? What will you start next?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Mission Prep",
+      "name": "Mission Prep",
+      "days": [
+        {
+          "day": 1,
+          "title": "Start Strong: Center on Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This is a 40-day covenant with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "2 Nephi 25:26–27",
+              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it mean to you personally to “talk of Christ… rejoice in Christ… preach of Christ”? What is one specific way you’ll do that today?"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Prayer: Morning and Night",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Build the habit of speaking with God out loud—consistency over perfection."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What do you want God to help you become over these 40 days?"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Repentance: Daily Realignment",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Repentance is progress—turning your heart to Christ, again and again."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where did you drift yesterday? What is one small correction you’ll make today?"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Obedience: Doing the Small Things",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God changes people through repeated, ordinary obedience."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one commandment you can keep with more exactness today?"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Scripture Power: Paper and Presence",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Scripture study isn’t just reading—it’s making room for revelation."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What phrase or idea stood out? Why might it matter right now?"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Faith: Acting Before Seeing",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Faith grows when you act on truth you already have."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one faithful action you’ll take today even if you don’t feel like it?"
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Sabbath: A Day to Be With God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let the Sabbath be a reset—rest, worship, and spiritual momentum."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does a holy Sabbath look like in your life this week?"
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Covenants: Identity and Direction",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Covenants are not constraints—they are power and belonging."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How do covenants shape who you are and what you do?"
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Grace: Strength Beyond Your Own",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Grace is enabling power—help to do what you can’t do alone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need divine help most right now?"
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Charity: Becoming Like Christ",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Charity is a gift you seek—and a way you live."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who can you love more intentionally today, and how?"
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Integrity: Who You Are When No One Sees",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in private—habits become character."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What private habit would most improve your spiritual life?"
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "The Holy Ghost: Guidance and Comfort",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Spirit speaks quietly—make your life quiet enough to hear."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "When have you felt the Spirit recently? What were you doing?"
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Scripture Study: Asking Better Questions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation often comes from a good question asked with faith."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What question will you bring to God and the scriptures today?"
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Sabbath: Renewing Your Promises",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Treat the sacrament as a weekly covenant renewal—real, personal, and focused."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise do you want to renew today? What will you do differently this week?"
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "title": "Discipline: Spiritual Strength Training",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Your checklist is training—discipline becomes freedom."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which checklist item is hardest? What plan will you use to win it today?"
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "title": "Forgiveness: Letting Christ Heal It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Forgiveness is often a process—invite Christ into it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Who do you need to forgive (including yourself)? What is one step forward?"
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "title": "Humility: Teachability Before God",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Pride resists change; humility welcomes it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What feedback from God are you resisting? What would humility look like today?"
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "title": "Service: Quiet, Real, Specific",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Service turns you outward and brings the Spirit."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one act of service you will do today—small but real?"
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "title": "The Atonement: Accessing Power Daily",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Atonement is not just for sins—it's power for weakness and growth."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you need enabling power today? Ask for it specifically."
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "title": "Sabbath: Rest, Worship, Recommit",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Let worship reset your desires for the week."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What will you protect this week to keep your spirit strong?"
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "title": "Temptation: Winning the First Battle",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Most temptations are won early—choose your environment and your next action."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is your most predictable temptation? What is your ‘if-then’ plan?"
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "title": "Truth: What God Says Is Real",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Truth steadies you when emotions fluctuate."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write one truth from your study today. How will you act on it?"
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "title": "Covenant People: Belonging and Responsibility",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "God gathers His people to strengthen and refine them."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How can you strengthen someone else’s faith this week?"
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "title": "Revelation: Acting on Impressions",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Revelation grows when you obey the last thing God told you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What impression have you had lately? What action will you take today?"
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "title": "Endurance: Keep Going When It’s Boring",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Spiritual maturity includes consistency when the novelty is gone."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What helps you stay consistent? What will you do when motivation drops?"
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "title": "Christlike Leadership: In the Home and Beyond",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Lead by example, love, and quiet steadiness."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where can you lead more like Christ—patiently and intentionally?"
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "title": "Scripture Study: Finding Patterns",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Look for patterns: promises, warnings, invitations, and examples."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What pattern did you notice today? How does it apply to you?"
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "title": "Sabbath: Gratitude and Joy",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Gratitude invites the Spirit and expands joy."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "List 5 things you’re grateful for—and why they matter."
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "title": "Conversion: Becoming Steady",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Conversion is stability—choosing Christ repeatedly until it becomes you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Where do you feel most ‘steady’ spiritually? Where do you want more steadiness?"
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "title": "The Book of Mormon: Another Testament",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Book of Mormon was given to bring you to Christ with power."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add Book of Mormon link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What did today’s reading teach you about Jesus Christ?"
+            }
+          ]
+        },
+        {
+          "day": 31,
+          "title": "Doctrine and Covenants: Hearing the Lord’s Voice",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "The Lord speaks to real people in real problems—just like you."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add D&C link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What instruction or promise feels personal to you today?"
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "title": "Pearl of Great Price: Identity and Purpose",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Remember who you are: a child of God with eternal purpose."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add PGP link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "How does knowing who you are change how you act today?"
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "title": "The New Testament: Discipleship",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Discipleship is daily: hear Him, follow Him, become like Him."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add NT link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What is one trait of Christ you will practice today?"
+            }
+          ]
+        },
+        {
+          "day": 34,
+          "title": "Sabbath: Finish the Week Strong",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Use the Sabbath to reset your intent and strengthen your habits."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What habit will you protect most for the final week?"
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "title": "Holiness: Becoming a Disciple in Small Moments",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Holiness is built in moments—what you do repeatedly becomes who you are."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What small moment today can become an act of discipleship?"
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "title": "Hope: God Is Working With You",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Hope is confidence in God’s goodness and His promises."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What promise from God are you holding onto right now?"
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "title": "Consecration: Putting God First",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Consecration is alignment: time, attention, and life offered to God."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What does it look like to put God first in your schedule today?"
+            }
+          ]
+        },
+        {
+          "day": 38,
+          "title": "Testimony: Speak It, Live It",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Testimony strengthens when you share and act on it."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Write your testimony in 3–5 sentences as it is today."
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "title": "Preparation: Protect What You Built",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "Plan now so momentum doesn’t disappear when the 40 days end."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "Which 3 habits will you keep after Day 40? How will you protect them?"
+            }
+          ]
+        },
+        {
+          "day": 40,
+          "title": "Finish: A New Baseline",
+          "blocks": [
+            {
+              "type": "text",
+              "heading": "Theme",
+              "body": "This isn’t the end—it’s the new baseline. Keep walking with God daily."
+            },
+            {
+              "type": "link",
+              "heading": "Reading",
+              "label": "Add scripture link for today",
+              "url": ""
+            },
+            {
+              "type": "text",
+              "heading": "Journal Prompt",
+              "body": "What changed in you? What will you continue? What will you start next?"
             }
           ]
         }

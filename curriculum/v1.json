@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updated_at": "2026-01-26T05:00:06+00:00",
   "default_curriculum_id": "lds_standard_works",
   "curricula": [
@@ -9,18 +9,20 @@
       "days": [
         {
           "day": 1,
-          "title": "Start Strong: Center on Christ",
+          "title": "Being Centered on Christ",
           "blocks": [
             {
               "type": "text",
               "heading": "Theme",
-              "body": "This is a 40-day covenant with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
+              "body": "This is a 40-day challenge with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
             },
             {
               "type": "link",
               "heading": "Reading",
               "label": "2 Nephi 25:26–27",
+              "label": "John 17",
               "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
+              "url": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/17?lang=eng"
             },
             {
               "type": "text",

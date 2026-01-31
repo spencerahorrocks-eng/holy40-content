@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updated_at": "2026-01-26T05:00:06+00:00",
   "default_curriculum_id": "lds_standard_works",
   "curricula": [
@@ -7,30 +7,37 @@
       "id": "lds_standard_works",
       "name": "LDS Standard Works",
       "days": [
+       {
+  "day": 1,
+  "title": "Being Centered on Christ",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "Theme",
+      "body": "This is a 40-day challenge with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
+    },
+    {
+      "type": "links",
+      "heading": "Reading",
+      "items": [
         {
-          "day": 1,
-          "title": "Being Centered on Christ",
-          "blocks": [
-            {
-              "type": "text",
-              "heading": "Theme",
-              "body": "This is a 40-day challenge with yourself. Keep it simple: show up, do the work, and let small daily obedience change you."
-            },
-            {
-              "type": "link",
-              "heading": "Reading",
-              "label": "2 Nephi 25:26–27",
-              "label": "John 17",
-              "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
-              "url": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/17?lang=eng"
-            },
-            {
-              "type": "text",
-              "heading": "Journal Prompt",
-              "body": "What does it mean to you personally to “talk of Christ… rejoice in Christ… preach of Christ”? What is one specific way you’ll do that today?"
-            }
-          ]
+          "label": "2 Nephi 25:26–27",
+          "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng&id=p26-p27#p26"
         },
+        {
+          "label": "John 17",
+          "url": "https://www.churchofjesuschrist.org/study/scriptures/nt/john/17?lang=eng"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Journal Prompt",
+      "body": "What does it mean to you personally to “talk of Christ… rejoice in Christ… preach of Christ”? What is one specific way you’ll do that today?"
+    }
+  ]
+}
+
         {
           "day": 2,
           "title": "Prayer: Morning and Night",

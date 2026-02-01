@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updated_at": "2026-01-26T05:00:06+00:00",
   "default_curriculum_id": "lds_standard_works",
   "curricula": [
@@ -45,14 +45,22 @@
             {
               "type": "text",
               "heading": "Theme",
-              "body": "Build the habit of speaking with God out loud—consistency over perfection."
+              "body": "Build the habit of speaking with God out loud. Consistency over perfection."
             },
             {
-              "type": "link",
-              "heading": "Reading",
-              "label": "Add scripture link for today",
-              "url": ""
-            },
+            "type": "links",
+            "heading": "Reading",
+            "items": [
+        {
+          "label": "Enos 1",
+          "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1?lang=eng"
+        },
+        {
+          "label": "Alma 34",
+          "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng"
+        }
+      ]
+    },
             {
               "type": "text",
               "heading": "Journal Prompt",
